@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Welcome to PCproSupport.com
 
-You can use the [editor on GitHub](https://github.com/Amy-911/PCproSupport.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Powerful technology that secures and safely repairs any PC to an optimized state. It’s the one-stop software solution any PC user ever needed.
+### About PCproSupport.Com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are One-Stop Technical solutions for all computer-related problems. PCproSupport.com is managed by an individual technology advisor and support expert. Our support blog contains troubleshooting articles for computer and their software related errors.
 
-### Markdown
+### Who We Are?
+We’re an Independent Technology Advisor who provides online technical support for all PC users. Our friendly and professional computer experts help people’s with troubleshooting their problems related to computers. We offer live chat service and email support for quick support to resolve issues.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our great support team will be glad to assist you with any issue you might have and we are always improving our services to meet your demands and we are here to help you and to answer your questions and inquiries.
 
-```markdown
-Syntax highlighted code block
+## Best Tools And Articles For All Of Your PC Issues
+The software that we are offering has passed all quality tests and has been approved by technicians all over the globe, besides the software itself you can find a lot of great articles about various PC issues with fixes, tips, and tricks on how to speed up your computer and even reviews of various software and hardware.
 
-# Header 1
-## Header 2
-### Header 3
+Free tools for system optimization and performance
+PC articles, fixes, tricks & tips
+Hardware and software guides
+One-click solutions
+Windows error fixes
+Hardware and software reviews
 
-- Bulleted
-- List
+### The Complete System Solution
+In today’s world keeping your PC optimized and in top form is very important but often it takes a lot of time and effort to do so. Here at PCproSupport.com, we are offering you one-click solutions that will save your time and money.
 
-1. Numbered
-2. List
+Remove malware threats
+Detect dangerous websites
+Restore max performance
+Free precious disk space
+Replace damaged windows files
+If you have any kind of issue with your PC or you wish to keep it running in optimal performance download recommended tools and forget about PC problems.
 
-**Bold** and _Italic_ and `Code` text
+## Support
+In today’s world keeping your PC optimized and in top form is very important but often it takes a lot of time and effort to do so. Here at PCproSupport.com, we are offering you one-click solutions that will save your time and money.
 
-[Link](url) and ![Image](src)
-```
+The software that we are offering has passed all quality tests and has been approved by technicians all over the globe, besides the software itself you can find a lot of great articles about various PC issues with fixes, tips, and tricks on how to speed up your computer and even reviews of various software and hardware.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Having trouble with computer? Check out our articles,
 
-### Jekyll Themes
+[iTunes error 13014: How to Fix iTunes error on Windows and Mac](https://pcprosupport.com/itunes-error-13014-how-to-fix-itunes-error-on-windows-and-mac/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Amy-911/PCproSupport.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[How to fix Microsoft Office 2016 install error 1935 on Windows & Mac](https://pcprosupport.com/how-to-fix-microsoft-office-2016-install-error-1935-on-windows-mac/)
 
-### Support or Contact
+[Outlook error code 21999- Fix receiving reported error 21999](https://pcprosupport.com/outlook-error-code-21999-fix-receiving-reported-error-21999/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Microsoft Outlook error code 3170- Fix receiving reported error 3170](https://pcprosupport.com/outlook-error-code-3170-fix-receiving-reported-error-3170/)
+
+[Outlook error code 3210- Fix receiving reported error 3210](https://pcprosupport.com/outlook-error-code-3210-fix-receiving-reported-error-3210/)
+
+Our great support team will be glad to assist you with any issue you might have and we are always improving our services to meet your demands and we are here to help you and to answer your questions and inquiries.
+
+If you have any kind of issue with your PC or you wish to keep it running in optimal performance download recommended tools and forget about PC problems.
